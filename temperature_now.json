@@ -1,0 +1,30 @@
+{
+    "w1_t": 24.75,
+    "bme280_t": 23.38,
+    "bme280_p": 742.17,
+    "bme280_h": 16.21,
+    "fc_t": -12.18,
+    "fc_h": 0.81,
+    "fc_p": 747.51,
+    "time": 1582737442,
+    "temp_direction": 0,
+    "forecast": {
+        "now_summary": "Ясно",
+        "now_icon": "clear-night",
+        "now_temperature": -12.18,
+        "now_humidity": 0.81,
+        "now_pressure": 747.51,
+        "now_windSpeed": 1.95,
+        "today_summary": "Возможен небольшой снег в понедельник и во вторник.",
+        "today_icon": "snow",
+        "tomorrow_summary": "Туман утром.",
+        "tomorrow_icon": "fog",
+        "tomorrow_temperatureMax": -5.86,
+        "tomorrow_temperatureMin": -11.28,
+        "tomorrow_humidity": 0.83,
+        "tomorrow_pressure": 746.54,
+        "tomorrow_windSpeed": 3.26,
+        "now_precipType": null,
+        "tomorrow_precipType": "snow"
+    }
+}
