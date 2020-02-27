@@ -1,20 +1,20 @@
 {
-    "w1_t": 24.62,
-    "bme280_t": 23.54,
-    "bme280_p": 742.93,
-    "bme280_h": 11.55,
-    "fc_t": -8.97,
+    "w1_t": 24.5,
+    "bme280_t": 23.42,
+    "bme280_p": 742.92,
+    "bme280_h": 11.41,
+    "fc_t": -8.99,
     "fc_h": 0.7,
     "fc_p": 748.26,
-    "time": 1582839005,
-    "temp_direction": 1,
+    "time": 1582839605,
+    "temp_direction": -1,
     "forecast": {
         "now_summary": "Облачно",
         "now_icon": "partly-cloudy-night",
-        "now_temperature": -8.97,
+        "now_temperature": -8.99,
         "now_humidity": 0.7,
         "now_pressure": 748.26,
-        "now_windSpeed": 3.36,
+        "now_windSpeed": 3.39,
         "today_summary": "Без осадков в течение всей недели.",
         "today_icon": "clear-day",
         "tomorrow_summary": "Облачно в течение всего дня.",
@@ -24,7 +24,7 @@
         "tomorrow_humidity": 0.78,
         "tomorrow_pressure": 749.24,
         "tomorrow_windSpeed": 1.14,
-        "now_precipType": "snow",
+        "now_precipType": null,
         "tomorrow_precipType": "snow"
     }
 }
